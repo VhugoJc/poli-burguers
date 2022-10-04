@@ -1,0 +1,20 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl Aro_de_cebollaMaterial0
+Ka 0.689706 0.000000 0.700000
+Kd 0.689706 0.000000 0.700000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 20.000000
+Tr 1.000000
+
+newmtl Aro_de_cebollaMaterial1
+Ka 0.444706 0.599118 0.741176
+Kd 0.444706 0.599118 0.741176
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 20.000000
+Tr 1.000000

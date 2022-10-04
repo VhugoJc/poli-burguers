@@ -1,0 +1,34 @@
+Conversión de Solid Edge en OBJ
+Fecha: martes,agosto 23,2022 01:46p. m.
+Archivo de salida: C:\Users\LabTICadmon6\Desktop\OMAR\Archivos Formato OBJ\Catshup.obj
+Autor: Desconocido
+Organización: Desconocido
+Sistema fuente: SOLID EDGE
+
+Hardware:
+Procesador: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+Sistema operativo: Windows 10
+Memoria instalada: 15.70 GB
+
+Información sobre el software:
+Versión de Parasolid: 34.0.153
+Versión de PSBodyShop: 34.0.110
+Versión del adaptador OBJ: 9.0.94
+Versión de Solid Edge: 222.00.00.132 x64
+
+Opciones de exportación de OBJ:
+Exportar los sólidos de construcción: Desactivado
+Exportar las piezas visualizadas: Desactivado
+Exportar Superficies de construcción: Desactivado
+Habilitar registro de anotaciones: Activado
+Exportar texturas: Desactivado
+Exportar conjunto en fichero plano: On
+Exportar cuerpos sólidos y superficies de construcción, si no hay cuerpos de diseño:Desactivado
+Unidades de exportación: Millimeters
+Valor de la tolerancia de exportación:1.250000
+Tipo de tolerancia de exportación: Custom
+Valor del ángulo plano de superficie de exportación:0.523599
+
+Avance en la conversión:
+Se completó el proceso de conversión
+Tiempo necesario para convertir:00 : 00 : 00
