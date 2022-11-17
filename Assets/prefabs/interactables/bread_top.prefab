@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 748055937106041757}
   m_Layer: 0
   m_Name: bread_top
-  m_TagString: Untagged
+  m_TagString: ingredient
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47,8 +47,8 @@ GameObject:
   - component: {fileID: 2298759013567284723}
   - component: {fileID: 4024882162524283186}
   m_Layer: 8
-  m_Name: Pan_1_Hamburguesa
-  m_TagString: Untagged
+  m_Name: bread_top
+  m_TagString: ingredient
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 932920998886685524}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d15de70d95a419b45acb6e5ca9092518, type: 3}
   m_Name: 
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 932920998886685524}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c931d90e9d0dad3468534a46ea5486e5, type: 3}
   m_Name: 

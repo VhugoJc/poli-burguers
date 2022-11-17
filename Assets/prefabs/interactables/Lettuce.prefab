@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2176137085481482443}
   m_Layer: 8
   m_Name: Lettuce
-  m_TagString: Untagged
+  m_TagString: ingredient
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 7749960345512479396}
   - component: {fileID: 7890518604207929063}
   m_Layer: 8
-  m_Name: Lechuga
+  m_Name: lettuce
   m_TagString: ingredient
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -205,7 +205,7 @@ GameObject:
   - component: {fileID: 937501082979934251}
   m_Layer: 8
   m_Name: Posable
-  m_TagString: Untagged
+  m_TagString: ingredient
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

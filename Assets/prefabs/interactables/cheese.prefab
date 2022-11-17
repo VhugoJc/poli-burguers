@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6013543591936377411}
   - component: {fileID: 4571095130515499217}
   m_Layer: 8
-  m_Name: Rebanada_queso
+  m_Name: cheese
   m_TagString: ingredient
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
